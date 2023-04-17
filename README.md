@@ -10,6 +10,14 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - View each page and be able to toggle between the tabs to see new information
 
+### Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Tablet: 768px
+- Desktop: 1440px
+
 ### Screenshot
 
 ![preview_desktop](https://user-images.githubusercontent.com/44399233/232434947-cda9489e-2faf-4707-817e-eb071a54d274.png)
